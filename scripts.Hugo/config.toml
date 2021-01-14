@@ -3,7 +3,7 @@
 # ##################################################
 # Hugo-defined variables
 #baseURL       = "hddps://example.com"
-baseURL       = "/"
+baseURL       = "/hk2011b/"
 
 timeout       = 30000
 

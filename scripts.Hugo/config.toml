@@ -3,13 +3,13 @@
 # ##################################################
 # Hugo-defined variables
 #baseURL       = "hddps://example.com"
-#baseURL       = "/hk2011b/"
-baseURL       = "/"
+#baseURL       = "/"
+baseURL       = "/hk2011b/"
 
 timeout       = 30000
 
-#title         = "https://hk2011b.chinadsf.org"
-title         = "https://chinadsf002.github.io/hk2011b"
+#title         = "https://chinadsf002.github.io/hk2011b"
+title         = "https://hk2011b.chinadsf.org"
 theme         = [ "hugo-theme-w3css-basic","dyn-theme-shortcodes" ]
 languageCode  = "en-us"
 #languageCode  = "de-ch"

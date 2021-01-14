@@ -9,7 +9,8 @@ baseURL       = "/hk2011b/"
 timeout       = 30000
 
 #title         = "https://chinadsf002.github.io/hk2011b"
-title         = "https://hk2011b.chinadsf.org"
+#title         = "https://hk2011b.chinadsf.org"
+title         = "https://chinadsf002.github.io"
 theme         = [ "hugo-theme-w3css-basic","dyn-theme-shortcodes" ]
 languageCode  = "en-us"
 #languageCode  = "de-ch"

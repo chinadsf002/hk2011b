@@ -34,12 +34,12 @@ categories:
 
 {{< mydiv4o link="https://hk2011.chinadsf.org/"   text="hk2011   2020年11月的新聞"  >}}
 {{< mydiv4o link="https://hk2011a.chinadsf.org/"  text="hk2011a  2020年11月的新聞a" >}}
-{{< mydiv4o link="https://hk2011b.chinadsf.org/"  text="hk2011b  2020年11月的新聞b" bg="lightsteelblue" >}}
+{{< mydiv4o link="https://chinadsf002.github.io/hk2011b/"  text="hk2011b  2020年11月的新聞b" bg="lightsteelblue" >}}
 
 {{< mybrline1 color="blue" >}}
 
-{{< mydiv4o link="https://hk2012.chinadsf.org/"   text="hk2012   2020年12月的新聞">}}
-{{< mydiv4o link="https://hk2101.chinadsf.org/"   text="hk2101   2021年1月的新聞">}}
+{{< mydiv4o link="https://chinadsf002.github.io/hk2012/"   text="hk2012   2020年12月的新聞">}}
+{{< mydiv4o link="https://chinadsf002.github.io/hk2101/"   text="hk2101   2021年1月的新聞">}}
 
 {{< mybrline1 >}}
 
